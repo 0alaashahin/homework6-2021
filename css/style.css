@@ -121,7 +121,7 @@ header{
     flex-basis: 230px;
   } 
 
-
+}
 /*Requirement 12
 /*Add media query to handle reduced-motion*/
 /*Your code here again.*/ 
@@ -164,6 +164,6 @@ nav{
 .gallery, #gallery{
   display: none;
 }
- 
+ }
 
 
